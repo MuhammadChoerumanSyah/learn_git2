@@ -1,0 +1,19 @@
+Resolusi
+# Software Development
+- HTML
+- CSS
+- JAVASCRIPT
+- MYSQL
+
+# DevOps
+- Operating System
+  * Linux
+- Python
+- Terminal Knowledge
+- Version Control System
+- VCS Hosting
+- Containers
+- Networks
+- Cloud Providers
+- CI/CD
+- Containers Orchestration
