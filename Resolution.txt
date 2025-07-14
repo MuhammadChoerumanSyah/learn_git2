@@ -10,10 +10,25 @@ Resolusi
   * Linux
 - Python
 - Terminal Knowledge
+ * Bash
+ * VIM/NANO/EMACS
 - Version Control System
+ * GIT
 - VCS Hosting
+ * GitHub
 - Containers
+ * Docker
 - Networks
+ * HTTP 
+ * HTTPS
+ * SSH
+ * DNS
+ * SSL/TLS
 - Cloud Providers
+ * AWS
+ * AZURE
+ * Google Cloud
 - CI/CD
+ * GitLab CI
 - Containers Orchestration
+ * Kubernetes
