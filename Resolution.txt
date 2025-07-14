@@ -3,17 +3,34 @@ Resolusi
 - HTML
 - CSS
 - JAVASCRIPT
-- MYSQL
+- Database
+ * MySQL
 
 # DevOps
 - Operating System
   * Linux
 - Python
 - Terminal Knowledge
+ * Bash
+ * VIM/NANO/EMACS
 - Version Control System
+ * GIT
 - VCS Hosting
+ * GitHub
 - Containers
+ * Docker
+- Nginx
 - Networks
+ * HTTP 
+ * HTTPS
+ * SSH
+ * DNS
+ * SSL/TLS
 - Cloud Providers
+ * Alibaba Cloud
+ * AZURE
+ * Google Cloud
 - CI/CD
+ * Jenkins
 - Containers Orchestration
+ * Kubernetes
