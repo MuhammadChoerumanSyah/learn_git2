@@ -3,7 +3,8 @@ Resolusi
 - HTML
 - CSS
 - JAVASCRIPT
-- MYSQL
+- Database
+ * MySQL
 
 # DevOps
 - Operating System
@@ -18,6 +19,7 @@ Resolusi
  * GitHub
 - Containers
  * Docker
+- Nginx
 - Networks
  * HTTP 
  * HTTPS
@@ -25,10 +27,10 @@ Resolusi
  * DNS
  * SSL/TLS
 - Cloud Providers
- * AWS
+ * Alibaba Cloud
  * AZURE
  * Google Cloud
 - CI/CD
- * GitLab CI
+ * Jenkins
 - Containers Orchestration
  * Kubernetes
